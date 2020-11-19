@@ -2,8 +2,6 @@
 var tableData = data;
 
 // YOUR CODE HERE!
-// YOUR CODE HERE!
-// select the table body tag and add the data in html
 var tbody = d3.select("tbody");
 var button = d3.select("#filter-btn");
 var form = d3.select("#form");
